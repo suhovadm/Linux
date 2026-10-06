@@ -66,7 +66,7 @@ ACL localhost 127.0.0.1/32
 ACCEPT localhost localnet  
 REJECT all  
 
-Это можно вписать под закоментированный блок #LISTEN <address> [<port>]  
+Это можно вписать под закоментированный блок `#LISTEN <address> [<port>]`   
 
 Всё, сохраняем, закрываем.  
 
