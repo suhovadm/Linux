@@ -25,7 +25,7 @@ sudo pacman -S diffutils
 
 В openBSD:  
 
-doas pkg_add diffutils  
+doas pkg_add diffutils // Здесь либо doas, либо sudo  
 
 В freeBSD:  
 
