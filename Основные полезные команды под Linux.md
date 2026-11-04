@@ -129,7 +129,7 @@ Debian / Ubuntu / Astra / Kali / Mint: APT
 
 ALT: APT-RPM (APT-GET)  
 
-RED OS / Fedora / RHEL /: DNF  
+RED OS / Fedora / RHEL: DNF  
 
 Arch / Manjaro: PACMAN  
 
